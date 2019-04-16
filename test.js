@@ -1,1 +1,2 @@
-var big = [1,2,3]
+In 1828, he attempted the entrance examination for the École Polytechnique, the most prestigious institution for mathematics in France at the time, without the usual preparation in mathematics, and failed for lack of explanations on the oral examination. In that same year, he entered the École Normale (then known as l'École préparatoire), a far inferior institution for mathematical studies at that time, where he found some professors sympathetic to him.
+
